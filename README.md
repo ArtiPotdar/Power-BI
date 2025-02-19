@@ -1,4 +1,5 @@
 Super Store Sales Dashboard 
+
 Overview :-
 The Super Store Sales Dashboard is designed to provide an interactive and insightful analysis of sales data. It helps businesses track sales performance, profitability, customer trends, and regional sales distribution using various Power BI visuals.
 
@@ -35,3 +36,6 @@ Date Range Selector: Allows users to filter sales data by specific time periods.
 Region Filter: Enables selection of a particular region for analysis.
 Category & Sub-Category Filter: Lets users drill down into product-specific sales.
 Customer Segment Filter: Analyzes sales by different customer segments (e.g., Corporate, Home Office, Consumer).
+
+
+
